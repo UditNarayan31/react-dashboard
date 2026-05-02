@@ -1,7 +1,7 @@
 import Spaekline from "../components/Sparkline";
 import Cards from "../components/Cards";
 
-const Home: React.FC = () => {
+const Home = () => {
   return (
     <div>
       <Spaekline />

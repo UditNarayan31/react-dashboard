@@ -8,7 +8,7 @@ import VerticalNav from "./components/VerticalNav";
 import { Settings } from "lucide-react";
 import { themeColors } from "./theme/color";
 
-const App: React.FC = () => {
+const App = () => {
   const [bgColor, setBgColor] = useState("#1f2937");
   const [open, setOpen] = useState(false);
 

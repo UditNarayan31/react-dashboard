@@ -1,4 +1,4 @@
-const About: React.FC = () => {
+const About = () => {
   return <h2 className="text-xl">About Page</h2>
 }
 
